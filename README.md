@@ -32,4 +32,8 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+#### Data Exploration, Analytics and Reporting
+A comprehensive collection of SQL scripts for data exploration, analytics and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation and more to quickly explore, segment and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries for data exploration and business analytics.
+
+
 
